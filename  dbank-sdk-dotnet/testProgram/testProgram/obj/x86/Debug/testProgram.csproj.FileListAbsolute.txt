@@ -1,0 +1,14 @@
+C:\Users\p00206869\Desktop\testProgram\testProgram\bin\Debug\testProgram.exe
+C:\Users\p00206869\Desktop\testProgram\testProgram\bin\Debug\testProgram.pdb
+C:\Users\p00206869\Desktop\testProgram\testProgram\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\p00206869\Desktop\testProgram\testProgram\obj\x86\Debug\testProgram.exe
+C:\Users\p00206869\Desktop\testProgram\testProgram\obj\x86\Debug\testProgram.pdb
+C:\Users\p00206869\Desktop\testProgram\testProgram\bin\Debug\dbank-sdk-dotnet.dll
+C:\Users\p00206869\Desktop\testProgram\testProgram\bin\Debug\dbank-sdk-dotnet.pdb
+D:\testProgram\testProgram\obj\x86\Debug\testProgram.exe
+D:\testProgram\testProgram\obj\x86\Debug\testProgram.pdb
+D:\testProgram\testProgram\bin\Debug\testProgram.exe
+D:\testProgram\testProgram\bin\Debug\testProgram.pdb
+D:\testProgram\testProgram\bin\Debug\dbank-sdk-dotnet.dll
+D:\testProgram\testProgram\bin\Debug\dbank-sdk-dotnet.pdb
+D:\testProgram\testProgram\obj\x86\Debug\ResolveAssemblyReference.cache
