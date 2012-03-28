@@ -1,0 +1,17 @@
+C:\Users\p00206869\Desktop\dbank-sdk-dotnet\dbank-sdk-dotnet\bin\Debug\dbank-sdk-dotnet.dll
+C:\Users\p00206869\Desktop\dbank-sdk-dotnet\dbank-sdk-dotnet\bin\Debug\dbank-sdk-dotnet.pdb
+C:\Users\p00206869\Desktop\dbank-sdk-dotnet\dbank-sdk-dotnet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\p00206869\Desktop\dbank-sdk-dotnet\dbank-sdk-dotnet\obj\Debug\dbank-sdk-dotnet.dll
+C:\Users\p00206869\Desktop\dbank-sdk-dotnet\dbank-sdk-dotnet\obj\Debug\dbank-sdk-dotnet.pdb
+C:\Users\p00206869\Desktop\dbank-sdk-dotnet\dbank-sdk-dotnet\bin\Debug\PHPSerializationLibrary.dll
+C:\Users\p00206869\Desktop\dbank-sdk-dotnet\dbank-sdk-dotnet\bin\Debug\PHPSerializationLibrary.pdb
+C:\Users\p00206869\Desktop\testProgram\dbank-sdk-dotnet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\p00206869\Desktop\testProgram\dbank-sdk-dotnet\obj\Debug\dbank-sdk-dotnet.dll
+C:\Users\p00206869\Desktop\testProgram\dbank-sdk-dotnet\obj\Debug\dbank-sdk-dotnet.pdb
+C:\Users\p00206869\Desktop\testProgram\dbank-sdk-dotnet\bin\Debug\dbank-sdk-dotnet.dll
+C:\Users\p00206869\Desktop\testProgram\dbank-sdk-dotnet\bin\Debug\dbank-sdk-dotnet.pdb
+D:\testProgram\dbank-sdk-dotnet\bin\Debug\dbank-sdk-dotnet.dll
+D:\testProgram\dbank-sdk-dotnet\bin\Debug\dbank-sdk-dotnet.pdb
+D:\testProgram\dbank-sdk-dotnet\obj\Debug\ResolveAssemblyReference.cache
+D:\testProgram\dbank-sdk-dotnet\obj\Debug\dbank-sdk-dotnet.dll
+D:\testProgram\dbank-sdk-dotnet\obj\Debug\dbank-sdk-dotnet.pdb
